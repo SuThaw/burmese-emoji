@@ -23,4 +23,29 @@ transform('ပန်းသီး')
 
 ```
 
+```javascript
+
+const {transform} = require('burmese-emoji');
+transform('လိမ္မော်သီး')
+    .then(emoji => console.log(emoji))
+    .catch(err => console.log(err))
+```
+
+```js
+🍊
+
+```
+
+```javascript
+const {transform} = require('burmese-emoji');
+transform('ဆိတ်')
+    .then(emoji => console.log(emoji))
+    .catch(err => console.log(err))
+```
+
+```js
+🐐
+
+```
+
 
