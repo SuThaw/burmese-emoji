@@ -13,9 +13,7 @@
   "author": "SuThaw",
   "license": "ISC",
   "dependencies": {
-  
     "gemoji": "^4.0.0",
-    "google-translate-api": "^2.2.2",
-    
+    "google-translate-api": "^2.2.2"
   }
 }
