@@ -1,0 +1,21 @@
+{
+  "name": "burmese-emoji",
+  "version": "1.0.0",
+  "description": "convert burmese text to emoji",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "emoji",
+    "burmese"
+  ],
+  "author": "SuThaw",
+  "license": "ISC",
+  "dependencies": {
+  
+    "gemoji": "^4.0.0",
+    "google-translate-api": "^2.2.2",
+    
+  }
+}
