@@ -2,8 +2,6 @@ convert burmese words to emoji
 
 ## Installation
 
-[npm][]:
-
 ```bash
 npm install burmese-emoji
 ```
